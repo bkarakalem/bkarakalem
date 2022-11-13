@@ -4,9 +4,9 @@ Industrial Engineer | MBA
 
 👀 Interested in Data Science
 
-📎 Python
+   📎 Python
 
-📎 SQL
+   📎 SQL
 
 
 <!---
