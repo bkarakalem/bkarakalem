@@ -2,7 +2,7 @@ Data and BI Analyst
 
 Industrial Engineer | MBA
 
-Interested in Data Science and Business Intelligence
+Interested in Data Science
 
    📎 Python
 
